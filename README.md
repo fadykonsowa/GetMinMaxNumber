@@ -1,1 +1,1 @@
-# Get Minimum And Maximum from number list
+# Get Minimum And Maximum from Number List
