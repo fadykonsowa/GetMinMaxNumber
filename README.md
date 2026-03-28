@@ -1,1 +1,1 @@
-# Get Minimum And Maximum Number from number last
+# Get Minimum And Maximum from number last
